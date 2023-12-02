@@ -21,9 +21,3 @@ The project explores the application of CUDA to accelerate the computation of si
 - CUDA Toolkit (compatible version with your GPU)
 - C++ Compiler
 - Python (for comparative Python implementation)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/almusawiaf/LinkPredictionInCUDA.git
