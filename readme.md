@@ -1,6 +1,6 @@
 # CUDA-based Link Prediction in Large-Scale Graphs
 
-This repository contains the source code and additional resources for the research paper "Leveraging CUDA for Local Similarity-Based Link Prediction in Large-Scale Graphs" by Ahmad Al Musawi. The project focuses on enhancing the performance of link prediction algorithms in large-scale networks using CUDA (Compute Unified Device Architecture) for parallel computing.
+This repository contains the source code and additional resources for the research paper "Leveraging CUDA for Local Similarity-Based Link Prediction in Large-Scale Graphs". The project focuses on enhancing the performance of link prediction algorithms in large-scale networks using CUDA (Compute Unified Device Architecture) for parallel computing.
 
 ## Overview
 
